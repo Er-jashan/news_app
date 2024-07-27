@@ -1,0 +1,31 @@
+.foot-panel{
+    height: 50px;
+    width: 100%;
+    background-image: linear-gradient(to top left, rgba(109, 19, 139, 0.778) 0%, rgba(42, 104, 211, 0.9) 100%);
+    position:relative;
+  
+}
+.container1{
+    background-color: white;
+    backface-visibility: inherit;
+    height: 100%;
+    width: 100%;
+}
+
+.para{
+    font-size: small;
+    font-weight: bolder;
+    color: white;
+    /* margin-left: 10rem; */
+    position: relative;
+
+   
+}
+.author{
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+    /* margin-left: 25rem; */
+    position: relative;
+    text-align: center;
+}
